@@ -9,6 +9,11 @@ Bem-vindo ao repositório do projeto <link>Alissa White-Gluz</link>! Aqui, você
 
 <link>Projeto baseado no curso <a href="https://www.udemy.com/course/sass-e-scss-do-basico-ao-avancado-projetos/](https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/?kw=Web+Frontend+Fundamentos%3A+HTML%2C+CSS+e+JS&src=sac">Web Frontend Fundamentos: HTML, CSS e JS + 10 Projetos</a>, ministrado pelo instrutor Daniel Tapias Morales, plataforma Udemy. Trata-se de uma página web de Fã da cantora Alissa White-Gluz, vocalista da banda Arch Enemy, com imagens de divulgação e links das redes sociais da cantora.
 
+## 🌟 Site
+
+Confira a demo ao vivo aqui 🚀
+### Vercel: ([https://simonepenido.github.io/cristina_scabbia/](https://alissa-white-gluz-fan.vercel.app/))
+
 ## Funcionalidades
 
 - Exibição de informações sobre a cantora Alissa White-Gluz.
