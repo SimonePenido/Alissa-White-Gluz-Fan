@@ -21,14 +21,6 @@ body {
     padding: 20px;
 }
 
-.hero {
-    background-image: url(imagens/fundo.jpg);
-    height: 900px;
-    background-size: cover;
-    background-position: center center;
-    padding-top: 1px;
-}
-
 .hero-content {
     margin: 200px auto 0;
     width: 80%;
