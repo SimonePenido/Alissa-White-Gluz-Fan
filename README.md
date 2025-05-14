@@ -12,7 +12,7 @@ Bem-vindo ao repositório do projeto <link>Alissa White-Gluz</link>! Aqui, você
 ## 🌟 Site
 
 Confira a demo ao vivo aqui 🚀
-### Vercel: ([https://simonepenido.github.io/cristina_scabbia/](https://alissa-white-gluz-fan.vercel.app/))
+### Vercel: [(https://alissa-white-gluz-fan.vercel.app/)](https://alissa-white-gluz-fan.vercel.app/)
 
 ## Funcionalidades
 
