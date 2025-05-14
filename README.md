@@ -1,5 +1,6 @@
 # Alissa White-Gluz_Fan
 
+![Fundo](https://github.com/user-attachments/assets/4bae3109-dca3-4f48-923f-2690575572c6)
 
 
 Bem-vindo ao repositório do projeto <link>Alissa White-Gluz</link>! Aqui, você encontrará todos os detalhes e recursos relacionados ao projeto.
